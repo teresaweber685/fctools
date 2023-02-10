@@ -1,9 +1,9 @@
 
-## 工具名称
+## name
 fctools
-## 工具用途
+## purpose
 内网ms17010基于GUI的测试检测工具
-## 使用方法
+## how to use
 使用msf命令生成恶意dll
 
 
